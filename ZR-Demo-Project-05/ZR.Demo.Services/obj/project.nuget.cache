@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2O2iTkT01HM8B7q1k59SyMEdG2j18Bpr7oZoaW7OGzhyZsAV/hQrR4TWN3FOvRn22FywQ/MLfxjTlWJj0q/Lvg==",
+  "success": true,
+  "projectFilePath": "E:\\GitHub\\ZR-Demo-Project-05\\ZR.Demo.Services\\ZR.Demo.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ziggy\\.nuget\\packages\\microsoft.aspnetcore.dataprotection.abstractions\\6.0.10\\microsoft.aspnetcore.dataprotection.abstractions.6.0.10.nupkg.sha512",
+    "C:\\Users\\ziggy\\.nuget\\packages\\portable.bouncycastle\\1.9.0\\portable.bouncycastle.1.9.0.nupkg.sha512"
+  ],
+  "logs": []
+}

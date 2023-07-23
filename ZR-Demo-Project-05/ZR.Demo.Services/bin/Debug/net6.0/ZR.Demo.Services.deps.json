@@ -1,0 +1,57 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ZR.Demo.Services/1.0.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.DataProtection.Abstractions": "6.0.10",
+          "Portable.BouncyCastle": "1.9.0"
+        },
+        "runtime": {
+          "ZR.Demo.Services.dll": {}
+        }
+      },
+      "Microsoft.AspNetCore.DataProtection.Abstractions/6.0.10": {
+        "runtime": {
+          "lib/net6.0/Microsoft.AspNetCore.DataProtection.Abstractions.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.1022.47617"
+          }
+        }
+      },
+      "Portable.BouncyCastle/1.9.0": {
+        "runtime": {
+          "lib/netstandard2.0/BouncyCastle.Crypto.dll": {
+            "assemblyVersion": "1.9.0.0",
+            "fileVersion": "1.9.0.1"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ZR.Demo.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.AspNetCore.DataProtection.Abstractions/6.0.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-a+otu5if+irySZxUT2jtk8h7kXll6se3sof5daFU8h3pM596sC0WluFi/xQd4JoBegvQ+4f9s/EBCcW6G9qE2Q==",
+      "path": "microsoft.aspnetcore.dataprotection.abstractions/6.0.10",
+      "hashPath": "microsoft.aspnetcore.dataprotection.abstractions.6.0.10.nupkg.sha512"
+    },
+    "Portable.BouncyCastle/1.9.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-eZZBCABzVOek+id9Xy04HhmgykF0wZg9wpByzrWN7q8qEI0Qen9b7tfd7w8VA3dOeesumMG7C5ZPy0jk7PSRHw==",
+      "path": "portable.bouncycastle/1.9.0",
+      "hashPath": "portable.bouncycastle.1.9.0.nupkg.sha512"
+    }
+  }
+}
