@@ -34,3 +34,16 @@ Ziggy Rafiq encourages you to be an active developer community member. Engage in
 ## Summary
 Embark on a journey through Ziggy Rafiq's Demo Projects and Project Showcases. Discover the potential of Microsoft .NET Core, Azure, TypeScript, Angular, React, JavaScript, AWS, and other technologies. Each project stands as a testament to our commitment to excellence, continuous learning, and innovation in the ever-evolving world of software development. Let's create the future together!
 
+## Author
+### Ziggy Rafiq
+- **Technical Lead Developer, C# Corner (MVP 🏅, VIP⭐️, Public Speaker🎤), Mentor, and Trainer**
+- **C# Corner MVP, VIP, Speaker, Chapter Lead UK**
+- Mentor and Trainer with solid experience in System Architecture for over 19 years
+- Link to [**Ziggy Rafiq Blog**](https://blog.ziggyrafiq.com)
+- Link to [**Ziggy Rafiq Website**](https://ziggyrafiq.com)
+* [**Please remember to subscribe to My YouTube channel**](https://www.youtube.com/)
+* [**Please remember to follow me on LinkedIn**](https://www.linkedin.com/in/ziggyrafiq/)
+* [**Please remember to connect with me on C# Corner**](https://www.c-sharpcorner.com/members/ziggy-rafiq)
+* [**Please remember to follow  me on Twitter/X**](https://twitter.com/ziggyrafiq)
+* [**Please remember to follow  me on Instagram**](https://www.instagram.com/ziggyrafiq/)
+* [**Please remember to follow  me on Facebook**](https://www.facebook.com/ziggyrafiq)
